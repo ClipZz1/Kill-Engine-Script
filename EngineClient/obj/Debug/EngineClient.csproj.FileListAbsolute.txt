@@ -1,0 +1,4 @@
+C:\Users\cvass\source\repos\KillEngineScript\build\EngineClient.net.dll
+C:\Users\cvass\source\repos\KillEngineScript\EngineClient\obj\Debug\EngineClient.csprojAssemblyReference.cache
+C:\Users\cvass\source\repos\KillEngineScript\EngineClient\obj\Debug\EngineClient.csproj.CoreCompileInputs.cache
+C:\Users\cvass\source\repos\KillEngineScript\EngineClient\obj\Debug\EngineClient.net.dll
